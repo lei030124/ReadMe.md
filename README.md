@@ -1,9 +1,9 @@
-
+Hi!
 ####自我介绍
  
-    我的名字叫赵国磊 ， 是一名一无所知的小白
+    我的名字叫赵国磊 ， 是一名来自河北的小伙子
     平时喜欢打游戏 ， 篮球 ，听音乐
-    也比较热爱编程 。
+    也比较热爱编程
 <!--
 **lei030124/lei030124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
